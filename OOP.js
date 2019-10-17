@@ -9,6 +9,7 @@ class User {
     this.passwordConfirm = passwordConfirm;
     this.isVerified = false;
     this.isSignedIn = false;
+    //user
   }
 
   // Sign up function
